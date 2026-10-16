@@ -1,0 +1,173 @@
+{
+ "id": "one-piece",
+ "name": "One Piece",
+ "tagline": "Pirates, Marines et Empereurs",
+ "color": "#e8503a",
+ "characters": [
+  {
+   "id": "monkey-d-luffy",
+   "name": "Monkey D. Luffy",
+   "tier": "S"
+  },
+  {
+   "id": "roronoa-zoro",
+   "name": "Roronoa Zoro",
+   "tier": "S"
+  },
+  {
+   "id": "sanji",
+   "name": "Sanji",
+   "tier": "A"
+  },
+  {
+   "id": "nami",
+   "name": "Nami",
+   "tier": "B"
+  },
+  {
+   "id": "usopp",
+   "name": "Usopp",
+   "tier": "B"
+  },
+  {
+   "id": "tony-tony-chopper",
+   "name": "Tony Tony Chopper",
+   "tier": "C"
+  },
+  {
+   "id": "nico-robin",
+   "name": "Nico Robin",
+   "tier": "B"
+  },
+  {
+   "id": "franky",
+   "name": "Franky",
+   "tier": "B"
+  },
+  {
+   "id": "brook",
+   "name": "Brook",
+   "tier": "C"
+  },
+  {
+   "id": "jinbe",
+   "name": "Jinbe",
+   "tier": "A"
+  },
+  {
+   "id": "portgas-d-ace",
+   "name": "Portgas D. Ace",
+   "tier": "S"
+  },
+  {
+   "id": "sabo",
+   "name": "Sabo",
+   "tier": "A"
+  },
+  {
+   "id": "trafalgar-law",
+   "name": "Trafalgar Law",
+   "tier": "S"
+  },
+  {
+   "id": "eustass-kid",
+   "name": "Eustass Kid",
+   "tier": "A"
+  },
+  {
+   "id": "shanks",
+   "name": "Shanks",
+   "tier": "S"
+  },
+  {
+   "id": "barbe-blanche",
+   "name": "Barbe Blanche",
+   "tier": "S"
+  },
+  {
+   "id": "barbe-noire",
+   "name": "Barbe Noire",
+   "tier": "S"
+  },
+  {
+   "id": "kaido",
+   "name": "Kaido",
+   "tier": "S"
+  },
+  {
+   "id": "big-mom",
+   "name": "Big Mom",
+   "tier": "S"
+  },
+  {
+   "id": "dracule-mihawk",
+   "name": "Dracule Mihawk",
+   "tier": "S"
+  },
+  {
+   "id": "akainu",
+   "name": "Akainu",
+   "tier": "S"
+  },
+  {
+   "id": "aokiji",
+   "name": "Aokiji",
+   "tier": "S"
+  },
+  {
+   "id": "kizaru",
+   "name": "Kizaru",
+   "tier": "S"
+  },
+  {
+   "id": "monkey-d-garp",
+   "name": "Monkey D. Garp",
+   "tier": "S"
+  },
+  {
+   "id": "silvers-rayleigh",
+   "name": "Silvers Rayleigh",
+   "tier": "S"
+  },
+  {
+   "id": "boa-hancock",
+   "name": "Boa Hancock",
+   "tier": "A"
+  },
+  {
+   "id": "crocodile",
+   "name": "Crocodile",
+   "tier": "A"
+  },
+  {
+   "id": "donquixote-doflamingo",
+   "name": "Donquixote Doflamingo",
+   "tier": "A"
+  },
+  {
+   "id": "charlotte-katakuri",
+   "name": "Charlotte Katakuri",
+   "tier": "A"
+  },
+  {
+   "id": "marco",
+   "name": "Marco",
+   "tier": "A"
+  },
+  {
+   "id": "buggy",
+   "name": "Buggy",
+   "tier": "C"
+  },
+  {
+   "id": "vivi",
+   "name": "Vivi",
+   "tier": "C"
+  },
+  {
+   "id": "bartolomeo",
+   "name": "Bartolomeo",
+   "tier": "C"
+  }
+ ]
+}
