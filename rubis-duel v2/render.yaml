@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: rubis-duel
+    runtime: node
+    plan: free
+    buildCommand: echo "rien à installer"
+    startCommand: node server.js
+    healthCheckPath: /healthz

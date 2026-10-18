@@ -1,0 +1,193 @@
+{
+ "id": "kingdom",
+ "name": "Kingdom",
+ "tagline": "Les guerres des Royaumes combattants (Yasuhisa Hara)",
+ "color": "#c9893a",
+ "characters": [
+  {
+   "id": "shin",
+   "name": "Shin",
+   "tier": "S"
+  },
+  {
+   "id": "ei-sei",
+   "name": "Ei Sei",
+   "tier": "S"
+  },
+  {
+   "id": "hyou",
+   "name": "Hyou",
+   "tier": "B"
+  },
+  {
+   "id": "ten",
+   "name": "Ten",
+   "tier": "B"
+  },
+  {
+   "id": "kyou-kai",
+   "name": "Kyou Kai",
+   "tier": "A"
+  },
+  {
+   "id": "ou-ki",
+   "name": "Ou Ki",
+   "tier": "S"
+  },
+  {
+   "id": "ou-sen",
+   "name": "Ou Sen",
+   "tier": "S"
+  },
+  {
+   "id": "ou-hon",
+   "name": "Ou Hon",
+   "tier": "S"
+  },
+  {
+   "id": "mou-bu",
+   "name": "Mou Bu",
+   "tier": "S"
+  },
+  {
+   "id": "mou-ten",
+   "name": "Mou Ten",
+   "tier": "A"
+  },
+  {
+   "id": "mou-gou",
+   "name": "Mou Gou",
+   "tier": "S"
+  },
+  {
+   "id": "mou-aki",
+   "name": "Mou Aki",
+   "tier": "B"
+  },
+  {
+   "id": "kan-ki",
+   "name": "Kan Ki",
+   "tier": "A"
+  },
+  {
+   "id": "shou-hei-kun",
+   "name": "Shou Hei Kun",
+   "tier": "A"
+  },
+  {
+   "id": "shou-bun-kun",
+   "name": "Shou Bun Kun",
+   "tier": "A"
+  },
+  {
+   "id": "ryo-fui",
+   "name": "Ryo Fui",
+   "tier": "A"
+  },
+  {
+   "id": "yo-tan-wa",
+   "name": "Yo Tan Wa",
+   "tier": "S"
+  },
+  {
+   "id": "haku-ki",
+   "name": "Haku Ki",
+   "tier": "S"
+  },
+  {
+   "id": "kai-oku",
+   "name": "Kai Oku",
+   "tier": "A"
+  },
+  {
+   "id": "a-kou",
+   "name": "A Kou",
+   "tier": "B"
+  },
+  {
+   "id": "wa-tegi",
+   "name": "Wa Tegi",
+   "tier": "B"
+  },
+  {
+   "id": "ri-boku",
+   "name": "Ri Boku",
+   "tier": "S"
+  },
+  {
+   "id": "ren-pa",
+   "name": "Ren Pa",
+   "tier": "S"
+  },
+  {
+   "id": "hou-ken",
+   "name": "Hou Ken",
+   "tier": "S"
+  },
+  {
+   "id": "gyou-un",
+   "name": "Gyou Un",
+   "tier": "A"
+  },
+  {
+   "id": "ko-chou",
+   "name": "Ko Chou",
+   "tier": "A"
+  },
+  {
+   "id": "rin-ko",
+   "name": "Rin Ko",
+   "tier": "A"
+  },
+  {
+   "id": "ki-sui",
+   "name": "Ki Sui",
+   "tier": "A"
+  },
+  {
+   "id": "ba-nan-ji",
+   "name": "Ba Nan Ji",
+   "tier": "A"
+  },
+  {
+   "id": "kei-sha",
+   "name": "Kei Sha",
+   "tier": "A"
+  },
+  {
+   "id": "kyou-en",
+   "name": "Kyou En",
+   "tier": "A"
+  },
+  {
+   "id": "chou-ga-ryuu",
+   "name": "Chou Ga Ryuu",
+   "tier": "A"
+  },
+  {
+   "id": "gaku-ki",
+   "name": "Gaku Ki",
+   "tier": "S"
+  },
+  {
+   "id": "geki-shin",
+   "name": "Geki Shin",
+   "tier": "A"
+  },
+  {
+   "id": "go-kei",
+   "name": "Go Kei",
+   "tier": "A"
+  },
+  {
+   "id": "kan-mei",
+   "name": "Kan Mei",
+   "tier": "A"
+  },
+  {
+   "id": "ka-rin",
+   "name": "Ka Rin",
+   "tier": "A"
+  }
+ ]
+}
