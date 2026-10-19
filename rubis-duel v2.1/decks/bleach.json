@@ -1,0 +1,258 @@
+{
+ "id": "bleach",
+ "name": "Bleach",
+ "tagline": "Shinigamis, Hollows et Quincys",
+ "color": "#8ea2ff",
+ "characters": [
+  {
+   "id": "ichigo-kurosaki",
+   "name": "Ichigo Kurosaki",
+   "tier": "S"
+  },
+  {
+   "id": "rukia-kuchiki",
+   "name": "Rukia Kuchiki",
+   "tier": "A"
+  },
+  {
+   "id": "orihime-inoue",
+   "name": "Orihime Inoue",
+   "tier": "A"
+  },
+  {
+   "id": "yasutora-sado",
+   "name": "Yasutora Sado",
+   "tier": "C"
+  },
+  {
+   "id": "uryu-ishida",
+   "name": "Uryu Ishida",
+   "tier": "S"
+  },
+  {
+   "id": "renji-abarai",
+   "name": "Renji Abarai",
+   "tier": "A"
+  },
+  {
+   "id": "byakuya-kuchiki",
+   "name": "Byakuya Kuchiki",
+   "tier": "A"
+  },
+  {
+   "id": "kenpachi-zaraki",
+   "name": "Kenpachi Zaraki",
+   "tier": "S"
+  },
+  {
+   "id": "toshiro-hitsugaya",
+   "name": "Toshiro Hitsugaya",
+   "tier": "A"
+  },
+  {
+   "id": "rangiku-matsumoto",
+   "name": "Rangiku Matsumoto",
+   "tier": "C"
+  },
+  {
+   "id": "shunsui-kyoraku",
+   "name": "Shunsui Kyoraku",
+   "tier": "A"
+  },
+  {
+   "id": "jushiro-ukitake",
+   "name": "Jushiro Ukitake",
+   "tier": "B"
+  },
+  {
+   "id": "genryusai-yamamoto",
+   "name": "Genryusai Yamamoto",
+   "tier": "S"
+  },
+  {
+   "id": "sosuke-aizen",
+   "name": "Sosuke Aizen",
+   "tier": "S"
+  },
+  {
+   "id": "gin-ichimaru",
+   "name": "Gin Ichimaru",
+   "tier": "B"
+  },
+  {
+   "id": "kaname-tosen",
+   "name": "Kaname Tosen",
+   "tier": "B"
+  },
+  {
+   "id": "kisuke-urahara",
+   "name": "Kisuke Urahara",
+   "tier": "S"
+  },
+  {
+   "id": "yoruichi-shihoin",
+   "name": "Yoruichi Shihoin",
+   "tier": "A"
+  },
+  {
+   "id": "sajin-komamura",
+   "name": "Sajin Komamura",
+   "tier": "A"
+  },
+  {
+   "id": "mayuri-kurotsuchi",
+   "name": "Mayuri Kurotsuchi",
+   "tier": "A"
+  },
+  {
+   "id": "soi-fon",
+   "name": "Soi Fon",
+   "tier": "B"
+  },
+  {
+   "id": "retsu-unohana",
+   "name": "Retsu Unohana",
+   "tier": "A"
+  },
+  {
+   "id": "shuhei-hisagi",
+   "name": "Shuhei Hisagi",
+   "tier": "C"
+  },
+  {
+   "id": "ikkaku-madarame",
+   "name": "Ikkaku Madarame",
+   "tier": "C"
+  },
+  {
+   "id": "yumichika-ayasegawa",
+   "name": "Yumichika Ayasegawa",
+   "tier": "C"
+  },
+  {
+   "id": "nelliel-tu-odelschwanck",
+   "name": "Nelliel Tu Odelschwanck",
+   "tier": "B"
+  },
+  {
+   "id": "ulquiorra-cifer",
+   "name": "Ulquiorra Cifer",
+   "tier": "A"
+  },
+  {
+   "id": "grimmjow-jaegerjaquez",
+   "name": "Grimmjow Jaegerjaquez",
+   "tier": "A"
+  },
+  {
+   "id": "coyote-starrk",
+   "name": "Coyote Starrk",
+   "tier": "A"
+  },
+  {
+   "id": "baraggan-louisenbairn",
+   "name": "Baraggan Louisenbairn",
+   "tier": "A"
+  },
+  {
+   "id": "tier-harribel",
+   "name": "Tier Harribel",
+   "tier": "B"
+  },
+  {
+   "id": "nnoitra-gilga",
+   "name": "Nnoitra Gilga",
+   "tier": "B"
+  },
+  {
+   "id": "szayelaporro-granz",
+   "name": "Szayelaporro Granz",
+   "tier": "B"
+  },
+  {
+   "id": "yammy-llargo",
+   "name": "Yammy Llargo",
+   "tier": "B"
+  },
+  {
+   "id": "isshin-kurosaki",
+   "name": "Isshin Kurosaki",
+   "tier": "A"
+  },
+  {
+   "id": "shinji-hirako",
+   "name": "Shinji Hirako",
+   "tier": "A"
+  },
+  {
+   "id": "kensei-muguruma",
+   "name": "Kensei Muguruma",
+   "tier": "B"
+  },
+  {
+   "id": "hiyori-sarugaki",
+   "name": "Hiyori Sarugaki",
+   "tier": "C"
+  },
+  {
+   "id": "mashiro-kuna",
+   "name": "Mashiro Kuna",
+   "tier": "C"
+  },
+  {
+   "id": "lisa-yadomaru",
+   "name": "Lisa Yadomaru",
+   "tier": "B"
+  },
+  {
+   "id": "love-aikawa",
+   "name": "Love Aikawa",
+   "tier": "B"
+  },
+  {
+   "id": "rose-otoribashi",
+   "name": "Rose Otoribashi",
+   "tier": "B"
+  },
+  {
+   "id": "hachigen-ushoda",
+   "name": "Hachigen Ushoda",
+   "tier": "C"
+  },
+  {
+   "id": "yhwach",
+   "name": "Yhwach",
+   "tier": "S"
+  },
+  {
+   "id": "jugram-haschwalth",
+   "name": "Jugram Haschwalth",
+   "tier": "S"
+  },
+  {
+   "id": "askin-nakk-le-vaar",
+   "name": "Askin Nakk Le Vaar",
+   "tier": "A"
+  },
+  {
+   "id": "bambietta-basterbine",
+   "name": "Bambietta Basterbine",
+   "tier": "A"
+  },
+  {
+   "id": "ichibe-hyosube",
+   "name": "Ichibe Hyosube",
+   "tier": "S"
+  },
+  {
+   "id": "senjumaru-shutara",
+   "name": "Senjumaru Shutara",
+   "tier": "A"
+  },
+  {
+   "id": "kukaku-shiba",
+   "name": "Kukaku Shiba",
+   "tier": "C"
+  }
+ ]
+}
