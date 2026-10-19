@@ -1,0 +1,188 @@
+{
+ "id": "dragon-ball-z",
+ "name": "Dragon Ball Z",
+ "tagline": "Saiyans, androïdes et dieux",
+ "color": "#f7b32b",
+ "characters": [
+  {
+   "id": "son-goku",
+   "name": "Son Goku",
+   "tier": "S"
+  },
+  {
+   "id": "vegeta",
+   "name": "Vegeta",
+   "tier": "S"
+  },
+  {
+   "id": "son-gohan",
+   "name": "Son Gohan",
+   "tier": "S"
+  },
+  {
+   "id": "piccolo",
+   "name": "Piccolo",
+   "tier": "A"
+  },
+  {
+   "id": "krilin",
+   "name": "Krilin",
+   "tier": "B"
+  },
+  {
+   "id": "yamcha",
+   "name": "Yamcha",
+   "tier": "C"
+  },
+  {
+   "id": "tien-shinhan",
+   "name": "Tien Shinhan",
+   "tier": "B"
+  },
+  {
+   "id": "chaozu",
+   "name": "Chaozu",
+   "tier": "C"
+  },
+  {
+   "id": "trunks",
+   "name": "Trunks",
+   "tier": "A"
+  },
+  {
+   "id": "son-goten",
+   "name": "Son Goten",
+   "tier": "C"
+  },
+  {
+   "id": "gotenks",
+   "name": "Gotenks",
+   "tier": "A"
+  },
+  {
+   "id": "vegeto",
+   "name": "Vegeto",
+   "tier": "S"
+  },
+  {
+   "id": "gogeta",
+   "name": "Gogeta",
+   "tier": "S"
+  },
+  {
+   "id": "broly",
+   "name": "Broly",
+   "tier": "S"
+  },
+  {
+   "id": "freezer",
+   "name": "Freezer",
+   "tier": "S"
+  },
+  {
+   "id": "cell",
+   "name": "Cell",
+   "tier": "S"
+  },
+  {
+   "id": "boo",
+   "name": "Boo",
+   "tier": "S"
+  },
+  {
+   "id": "bardock",
+   "name": "Bardock",
+   "tier": "A"
+  },
+  {
+   "id": "raditz",
+   "name": "Raditz",
+   "tier": "B"
+  },
+  {
+   "id": "nappa",
+   "name": "Nappa",
+   "tier": "B"
+  },
+  {
+   "id": "capitaine-ginyu",
+   "name": "Capitaine Ginyu",
+   "tier": "A"
+  },
+  {
+   "id": "beerus",
+   "name": "Beerus",
+   "tier": "S"
+  },
+  {
+   "id": "whis",
+   "name": "Whis",
+   "tier": "S"
+  },
+  {
+   "id": "jiren",
+   "name": "Jiren",
+   "tier": "S"
+  },
+  {
+   "id": "hit",
+   "name": "Hit",
+   "tier": "S"
+  },
+  {
+   "id": "tortue-geniale",
+   "name": "Tortue Géniale",
+   "tier": "B"
+  },
+  {
+   "id": "mr-satan",
+   "name": "Mr. Satan",
+   "tier": "C"
+  },
+  {
+   "id": "c-18",
+   "name": "C-18",
+   "tier": "A"
+  },
+  {
+   "id": "c-17",
+   "name": "C-17",
+   "tier": "A"
+  },
+  {
+   "id": "videl",
+   "name": "Videl",
+   "tier": "C"
+  },
+  {
+   "id": "bulma",
+   "name": "Bulma",
+   "tier": "C"
+  },
+  {
+   "id": "dr-gero",
+   "name": "Dr. Gero",
+   "tier": "B"
+  },
+  {
+   "id": "zamasu",
+   "name": "Zamasu",
+   "tier": "A"
+  },
+  {
+   "id": "cooler",
+   "name": "Cooler",
+   "tier": "A"
+  },
+  {
+   "id": "janemba",
+   "name": "Janemba",
+   "tier": "A"
+  },
+  {
+   "id": "dabra",
+   "name": "Dabra",
+   "tier": "B"
+  }
+ ]
+}

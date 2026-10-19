@@ -1,0 +1,158 @@
+{
+ "id": "jujutsu-kaisen",
+ "name": "Jujutsu Kaisen",
+ "tagline": "Sorciers, fléaux et malédictions",
+ "color": "#7a5cf0",
+ "characters": [
+  {
+   "id": "yuji-itadori",
+   "name": "Yuji Itadori",
+   "tier": "A"
+  },
+  {
+   "id": "megumi-fushiguro",
+   "name": "Megumi Fushiguro",
+   "tier": "A"
+  },
+  {
+   "id": "nobara-kugisaki",
+   "name": "Nobara Kugisaki",
+   "tier": "B"
+  },
+  {
+   "id": "satoru-gojo",
+   "name": "Satoru Gojo",
+   "tier": "S"
+  },
+  {
+   "id": "ryomen-sukuna",
+   "name": "Ryomen Sukuna",
+   "tier": "S"
+  },
+  {
+   "id": "kento-nanami",
+   "name": "Kento Nanami",
+   "tier": "A"
+  },
+  {
+   "id": "maki-zen-in",
+   "name": "Maki Zen'in",
+   "tier": "A"
+  },
+  {
+   "id": "toge-inumaki",
+   "name": "Toge Inumaki",
+   "tier": "B"
+  },
+  {
+   "id": "panda",
+   "name": "Panda",
+   "tier": "C"
+  },
+  {
+   "id": "yuta-okkotsu",
+   "name": "Yuta Okkotsu",
+   "tier": "S"
+  },
+  {
+   "id": "suguru-geto",
+   "name": "Suguru Geto",
+   "tier": "S"
+  },
+  {
+   "id": "aoi-todo",
+   "name": "Aoi Todo",
+   "tier": "A"
+  },
+  {
+   "id": "mai-zen-in",
+   "name": "Mai Zen'in",
+   "tier": "C"
+  },
+  {
+   "id": "mahito",
+   "name": "Mahito",
+   "tier": "A"
+  },
+  {
+   "id": "jogo",
+   "name": "Jogo",
+   "tier": "A"
+  },
+  {
+   "id": "hanami",
+   "name": "Hanami",
+   "tier": "A"
+  },
+  {
+   "id": "choso",
+   "name": "Choso",
+   "tier": "A"
+  },
+  {
+   "id": "toji-fushiguro",
+   "name": "Toji Fushiguro",
+   "tier": "S"
+  },
+  {
+   "id": "yuki-tsukumo",
+   "name": "Yuki Tsukumo",
+   "tier": "S"
+  },
+  {
+   "id": "kenjaku",
+   "name": "Kenjaku",
+   "tier": "S"
+  },
+  {
+   "id": "kinji-hakari",
+   "name": "Kinji Hakari",
+   "tier": "A"
+  },
+  {
+   "id": "hiromi-higuruma",
+   "name": "Hiromi Higuruma",
+   "tier": "A"
+  },
+  {
+   "id": "kashimo-hajime",
+   "name": "Kashimo Hajime",
+   "tier": "A"
+  },
+  {
+   "id": "naoya-zen-in",
+   "name": "Naoya Zen'in",
+   "tier": "B"
+  },
+  {
+   "id": "naobito-zen-in",
+   "name": "Naobito Zen'in",
+   "tier": "A"
+  },
+  {
+   "id": "kokichi-muta",
+   "name": "Kokichi Muta",
+   "tier": "B"
+  },
+  {
+   "id": "miguel",
+   "name": "Miguel",
+   "tier": "B"
+  },
+  {
+   "id": "momo-nishimiya",
+   "name": "Momo Nishimiya",
+   "tier": "C"
+  },
+  {
+   "id": "kasumi-miwa",
+   "name": "Kasumi Miwa",
+   "tier": "C"
+  },
+  {
+   "id": "noritoshi-kamo",
+   "name": "Noritoshi Kamo",
+   "tier": "B"
+  }
+ ]
+}

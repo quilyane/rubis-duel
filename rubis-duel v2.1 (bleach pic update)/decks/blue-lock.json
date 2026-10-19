@@ -1,0 +1,203 @@
+{
+ "id": "blue-lock",
+ "name": "Blue Lock",
+ "tagline": "Des attaquants prêts à tout pour devenir le meilleur",
+ "color": "#3b6bff",
+ "characters": [
+  {
+   "id": "yoichi-isagi",
+   "name": "Yoichi Isagi",
+   "tier": "A"
+  },
+  {
+   "id": "meguru-bachira",
+   "name": "Meguru Bachira",
+   "tier": "A"
+  },
+  {
+   "id": "seishiro-nagi",
+   "name": "Seishiro Nagi",
+   "tier": "S"
+  },
+  {
+   "id": "reo-mikage",
+   "name": "Reo Mikage",
+   "tier": "A"
+  },
+  {
+   "id": "rin-itoshi",
+   "name": "Rin Itoshi",
+   "tier": "S"
+  },
+  {
+   "id": "sae-itoshi",
+   "name": "Sae Itoshi",
+   "tier": "S"
+  },
+  {
+   "id": "shoei-barou",
+   "name": "Shoei Barou",
+   "tier": "S"
+  },
+  {
+   "id": "hyoma-chigiri",
+   "name": "Hyoma Chigiri",
+   "tier": "A"
+  },
+  {
+   "id": "rensuke-kunigami",
+   "name": "Rensuke Kunigami",
+   "tier": "A"
+  },
+  {
+   "id": "gin-gagamaru",
+   "name": "Gin Gagamaru",
+   "tier": "B"
+  },
+  {
+   "id": "jyubei-aryu",
+   "name": "Jyubei Aryu",
+   "tier": "A"
+  },
+  {
+   "id": "ryusei-shidou",
+   "name": "Ryusei Shidou",
+   "tier": "S"
+  },
+  {
+   "id": "tabito-karasu",
+   "name": "Tabito Karasu",
+   "tier": "A"
+  },
+  {
+   "id": "eita-otoya",
+   "name": "Eita Otoya",
+   "tier": "B"
+  },
+  {
+   "id": "yo-hiori",
+   "name": "Yo Hiori",
+   "tier": "A"
+  },
+  {
+   "id": "niko-ikki",
+   "name": "Niko Ikki",
+   "tier": "A"
+  },
+  {
+   "id": "zantetsu-tsurugi",
+   "name": "Zantetsu Tsurugi",
+   "tier": "B"
+  },
+  {
+   "id": "jingo-raichi",
+   "name": "Jingo Raichi",
+   "tier": "B"
+  },
+  {
+   "id": "kenyu-yukimiya",
+   "name": "Kenyu Yukimiya",
+   "tier": "A"
+  },
+  {
+   "id": "ranze-kurona",
+   "name": "Ranze Kurona",
+   "tier": "B"
+  },
+  {
+   "id": "gurimu-igarashi",
+   "name": "Gurimu Igarashi",
+   "tier": "B"
+  },
+  {
+   "id": "shuugo-sendou",
+   "name": "Shuugo Sendou",
+   "tier": "B"
+  },
+  {
+   "id": "aoshi-tokimitsu",
+   "name": "Aoshi Tokimitsu",
+   "tier": "B"
+  },
+  {
+   "id": "junichi-wanima",
+   "name": "Junichi Wanima",
+   "tier": "B"
+  },
+  {
+   "id": "iemon-okuhito",
+   "name": "Iemon Okuhito",
+   "tier": "B"
+  },
+  {
+   "id": "wataru-kuon",
+   "name": "Wataru Kuon",
+   "tier": "B"
+  },
+  {
+   "id": "nijiro-nanase",
+   "name": "Nijiro Nanase",
+   "tier": "B"
+  },
+  {
+   "id": "jinpachi-ego",
+   "name": "Jinpachi Ego",
+   "tier": "A"
+  },
+  {
+   "id": "anri-teieri",
+   "name": "Anri Teieri",
+   "tier": "C"
+  },
+  {
+   "id": "michael-kaiser",
+   "name": "Michael Kaiser",
+   "tier": "S"
+  },
+  {
+   "id": "alexis-ness",
+   "name": "Alexis Ness",
+   "tier": "S"
+  },
+  {
+   "id": "noel-noa",
+   "name": "Noel Noa",
+   "tier": "S"
+  },
+  {
+   "id": "marc-snuffy",
+   "name": "Marc Snuffy",
+   "tier": "A"
+  },
+  {
+   "id": "adam-blake",
+   "name": "Adam Blake",
+   "tier": "A"
+  },
+  {
+   "id": "julian-loki",
+   "name": "Julian Loki",
+   "tier": "A"
+  },
+  {
+   "id": "charles-chevalier",
+   "name": "Charles Chevalier",
+   "tier": "A"
+  },
+  {
+   "id": "don-lorenzo",
+   "name": "Don Lorenzo",
+   "tier": "A"
+  },
+  {
+   "id": "oliver-aiku",
+   "name": "Oliver Aiku",
+   "tier": "A"
+  },
+  {
+   "id": "chris-prince",
+   "name": "Chris Prince",
+   "tier": "A"
+  }
+ ]
+}

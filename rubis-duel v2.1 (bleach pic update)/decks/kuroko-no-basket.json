@@ -1,0 +1,228 @@
+{
+ "id": "kuroko-no-basket",
+ "name": "Kuroko no Basket",
+ "tagline": "La Génération des Miracles et leurs rivaux",
+ "color": "#4fc3f7",
+ "characters": [
+  {
+   "id": "tetsuya-kuroko",
+   "name": "Tetsuya Kuroko",
+   "tier": "A"
+  },
+  {
+   "id": "taiga-kagami",
+   "name": "Taiga Kagami",
+   "tier": "S"
+  },
+  {
+   "id": "seijuro-akashi",
+   "name": "Seijuro Akashi",
+   "tier": "S"
+  },
+  {
+   "id": "daiki-aomine",
+   "name": "Daiki Aomine",
+   "tier": "S"
+  },
+  {
+   "id": "ryota-kise",
+   "name": "Ryota Kise",
+   "tier": "S"
+  },
+  {
+   "id": "shintaro-midorima",
+   "name": "Shintaro Midorima",
+   "tier": "S"
+  },
+  {
+   "id": "atsushi-murasakibara",
+   "name": "Atsushi Murasakibara",
+   "tier": "S"
+  },
+  {
+   "id": "kazunari-takao",
+   "name": "Kazunari Takao",
+   "tier": "A"
+  },
+  {
+   "id": "teppei-kiyoshi",
+   "name": "Teppei Kiyoshi",
+   "tier": "A"
+  },
+  {
+   "id": "junpei-hyuga",
+   "name": "Junpei Hyuga",
+   "tier": "B"
+  },
+  {
+   "id": "riko-aida",
+   "name": "Riko Aida",
+   "tier": "B"
+  },
+  {
+   "id": "shun-izuki",
+   "name": "Shun Izuki",
+   "tier": "B"
+  },
+  {
+   "id": "rinnosuke-mitobe",
+   "name": "Rinnosuke Mitobe",
+   "tier": "B"
+  },
+  {
+   "id": "shinji-koganei",
+   "name": "Shinji Koganei",
+   "tier": "B"
+  },
+  {
+   "id": "satoshi-tsuchida",
+   "name": "Satoshi Tsuchida",
+   "tier": "C"
+  },
+  {
+   "id": "kouki-furihata",
+   "name": "Kouki Furihata",
+   "tier": "C"
+  },
+  {
+   "id": "koichi-kawahara",
+   "name": "Koichi Kawahara",
+   "tier": "C"
+  },
+  {
+   "id": "hiroshi-fukuda",
+   "name": "Hiroshi Fukuda",
+   "tier": "C"
+  },
+  {
+   "id": "tatsuya-himuro",
+   "name": "Tatsuya Himuro",
+   "tier": "A"
+  },
+  {
+   "id": "yukio-kasamatsu",
+   "name": "Yukio Kasamatsu",
+   "tier": "A"
+  },
+  {
+   "id": "mitsuhiro-hayakawa",
+   "name": "Mitsuhiro Hayakawa",
+   "tier": "B"
+  },
+  {
+   "id": "shinya-nakamura",
+   "name": "Shinya Nakamura",
+   "tier": "B"
+  },
+  {
+   "id": "yoshitaka-moriyama",
+   "name": "Yoshitaka Moriyama",
+   "tier": "B"
+  },
+  {
+   "id": "koji-kobori",
+   "name": "Koji Kobori",
+   "tier": "B"
+  },
+  {
+   "id": "taisuke-otsubo",
+   "name": "Taisuke Otsubo",
+   "tier": "B"
+  },
+  {
+   "id": "kiyoshi-miyaji",
+   "name": "Kiyoshi Miyaji",
+   "tier": "B"
+  },
+  {
+   "id": "satsuki-momoi",
+   "name": "Satsuki Momoi",
+   "tier": "B"
+  },
+  {
+   "id": "shoichi-imayoshi",
+   "name": "Shoichi Imayoshi",
+   "tier": "A"
+  },
+  {
+   "id": "kosuke-wakamatsu",
+   "name": "Kosuke Wakamatsu",
+   "tier": "B"
+  },
+  {
+   "id": "ryo-sakurai",
+   "name": "Ryo Sakurai",
+   "tier": "B"
+  },
+  {
+   "id": "yoshinori-susa",
+   "name": "Yoshinori Susa",
+   "tier": "B"
+  },
+  {
+   "id": "kenichi-okamura",
+   "name": "Kenichi Okamura",
+   "tier": "B"
+  },
+  {
+   "id": "kensuke-fukui",
+   "name": "Kensuke Fukui",
+   "tier": "B"
+  },
+  {
+   "id": "liu-wei",
+   "name": "Liu Wei",
+   "tier": "B"
+  },
+  {
+   "id": "reo-mibuchi",
+   "name": "Reo Mibuchi",
+   "tier": "A"
+  },
+  {
+   "id": "eikichi-nebuya",
+   "name": "Eikichi Nebuya",
+   "tier": "A"
+  },
+  {
+   "id": "kotaro-hayama",
+   "name": "Kotaro Hayama",
+   "tier": "A"
+  },
+  {
+   "id": "chihiro-mayuzumi",
+   "name": "Chihiro Mayuzumi",
+   "tier": "B"
+  },
+  {
+   "id": "makoto-hanamiya",
+   "name": "Makoto Hanamiya",
+   "tier": "A"
+  },
+  {
+   "id": "shuzo-nijimura",
+   "name": "Shuzo Nijimura",
+   "tier": "B"
+  },
+  {
+   "id": "shogo-haizaki",
+   "name": "Shogo Haizaki",
+   "tier": "A"
+  },
+  {
+   "id": "nash-gold-jr",
+   "name": "Nash Gold Jr.",
+   "tier": "S"
+  },
+  {
+   "id": "jason-silver",
+   "name": "Jason Silver",
+   "tier": "A"
+  },
+  {
+   "id": "alexandra-garcia",
+   "name": "Alexandra Garcia",
+   "tier": "B"
+  }
+ ]
+}

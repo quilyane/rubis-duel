@@ -1,0 +1,14 @@
+{
+  "name": "rubis-duel",
+  "version": "1.0.0",
+  "description": "Duel d'enchères entre amis : 500 rubis, 5 personnages.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tools/selftest.js",
+    "images": "node tools/images.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
