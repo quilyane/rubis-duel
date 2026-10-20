@@ -1,0 +1,263 @@
+{
+ "id": "my-hero-academia",
+ "name": "My Hero Academia",
+ "tagline": "PLUS ULTRA",
+ "color": "#b6e23a",
+ "characters": [
+  {
+   "id": "izuku-midoriya",
+   "name": "Izuku Midoriya",
+   "tier": "S"
+  },
+  {
+   "id": "katsuki-bakugo",
+   "name": "Katsuki Bakugo",
+   "tier": "S"
+  },
+  {
+   "id": "shoto-todoroki",
+   "name": "Shoto Todoroki",
+   "tier": "S"
+  },
+  {
+   "id": "ochaco-uraraka",
+   "name": "Ochaco Uraraka",
+   "tier": "A"
+  },
+  {
+   "id": "tenya-iida",
+   "name": "Tenya Iida",
+   "tier": "A"
+  },
+  {
+   "id": "tsuyu-asui",
+   "name": "Tsuyu Asui",
+   "tier": "A"
+  },
+  {
+   "id": "momo-yaoyorozu",
+   "name": "Momo Yaoyorozu",
+   "tier": "A"
+  },
+  {
+   "id": "eijiro-kirishima",
+   "name": "Eijiro Kirishima",
+   "tier": "A"
+  },
+  {
+   "id": "denki-kaminari",
+   "name": "Denki Kaminari",
+   "tier": "B"
+  },
+  {
+   "id": "mina-ashido",
+   "name": "Mina Ashido",
+   "tier": "B"
+  },
+  {
+   "id": "fumikage-tokoyami",
+   "name": "Fumikage Tokoyami",
+   "tier": "A"
+  },
+  {
+   "id": "mezo-shoji",
+   "name": "Mezo Shoji",
+   "tier": "B"
+  },
+  {
+   "id": "kyoka-jiro",
+   "name": "Kyoka Jiro",
+   "tier": "B"
+  },
+  {
+   "id": "yuga-aoyama",
+   "name": "Yuga Aoyama",
+   "tier": "B"
+  },
+  {
+   "id": "minoru-mineta",
+   "name": "Minoru Mineta",
+   "tier": "C"
+  },
+  {
+   "id": "hanta-sero",
+   "name": "Hanta Sero",
+   "tier": "B"
+  },
+  {
+   "id": "rikido-sato",
+   "name": "Rikido Sato",
+   "tier": "B"
+  },
+  {
+   "id": "toru-hagakure",
+   "name": "Toru Hagakure",
+   "tier": "B"
+  },
+  {
+   "id": "mashirao-ojiro",
+   "name": "Mashirao Ojiro",
+   "tier": "B"
+  },
+  {
+   "id": "all-might",
+   "name": "All Might",
+   "tier": "S"
+  },
+  {
+   "id": "endeavor",
+   "name": "Endeavor",
+   "tier": "S"
+  },
+  {
+   "id": "hawks",
+   "name": "Hawks",
+   "tier": "S"
+  },
+  {
+   "id": "shota-aizawa",
+   "name": "Shota Aizawa",
+   "tier": "A"
+  },
+  {
+   "id": "present-mic",
+   "name": "Present Mic",
+   "tier": "B"
+  },
+  {
+   "id": "midnight",
+   "name": "Midnight",
+   "tier": "B"
+  },
+  {
+   "id": "nezu",
+   "name": "Nezu",
+   "tier": "A"
+  },
+  {
+   "id": "mirio-togata",
+   "name": "Mirio Togata",
+   "tier": "S"
+  },
+  {
+   "id": "tamaki-amajiki",
+   "name": "Tamaki Amajiki",
+   "tier": "A"
+  },
+  {
+   "id": "nejire-hado",
+   "name": "Nejire Hado",
+   "tier": "A"
+  },
+  {
+   "id": "tomura-shigaraki",
+   "name": "Tomura Shigaraki",
+   "tier": "S"
+  },
+  {
+   "id": "all-for-one",
+   "name": "All For One",
+   "tier": "S"
+  },
+  {
+   "id": "dabi",
+   "name": "Dabi",
+   "tier": "S"
+  },
+  {
+   "id": "himiko-toga",
+   "name": "Himiko Toga",
+   "tier": "A"
+  },
+  {
+   "id": "twice",
+   "name": "Twice",
+   "tier": "A"
+  },
+  {
+   "id": "kai-chisaki",
+   "name": "Kai Chisaki",
+   "tier": "A"
+  },
+  {
+   "id": "stain",
+   "name": "Stain",
+   "tier": "A"
+  },
+  {
+   "id": "mirko",
+   "name": "Mirko",
+   "tier": "S"
+  },
+  {
+   "id": "gran-torino",
+   "name": "Gran Torino",
+   "tier": "A"
+  },
+  {
+   "id": "edgeshot",
+   "name": "Edgeshot",
+   "tier": "A"
+  },
+  {
+   "id": "best-jeanist",
+   "name": "Best Jeanist",
+   "tier": "A"
+  },
+  {
+   "id": "itsuka-kendo",
+   "name": "Itsuka Kendo",
+   "tier": "B"
+  },
+  {
+   "id": "neito-monoma",
+   "name": "Neito Monoma",
+   "tier": "B"
+  },
+  {
+   "id": "setsuna-tokage",
+   "name": "Setsuna Tokage",
+   "tier": "B"
+  },
+  {
+   "id": "hitoshi-shinso",
+   "name": "Hitoshi Shinso",
+   "tier": "A"
+  },
+  {
+   "id": "ryukyu",
+   "name": "Ryukyu",
+   "tier": "A"
+  },
+  {
+   "id": "gang-orca",
+   "name": "Gang Orca",
+   "tier": "B"
+  },
+  {
+   "id": "sir-nighteye",
+   "name": "Sir Nighteye",
+   "tier": "B"
+  },
+  {
+   "id": "lady-nagant",
+   "name": "Lady Nagant",
+   "tier": "A"
+  },
+  {
+   "id": "muscular",
+   "name": "Muscular",
+   "tier": "A"
+  },
+  {
+   "id": "kurogiri",
+   "name": "Kurogiri",
+   "tier": "B"
+  },
+  {
+   "id": "star-and-stripe",
+   "name": "Star and Stripe",
+   "tier": "S"
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "id": "naruto",
+ "name": "Naruto",
+ "tagline": "Shinobi de toutes les générations",
+ "color": "#f08a24",
+ "characters": [
+  {
+   "id": "naruto-uzumaki",
+   "name": "Naruto Uzumaki",
+   "tier": "S"
+  },
+  {
+   "id": "sasuke-uchiha",
+   "name": "Sasuke Uchiha",
+   "tier": "S"
+  },
+  {
+   "id": "kakashi-hatake",
+   "name": "Kakashi Hatake",
+   "tier": "S"
+  },
+  {
+   "id": "itachi-uchiha",
+   "name": "Itachi Uchiha",
+   "tier": "A"
+  },
+  {
+   "id": "madara-uchiha",
+   "name": "Madara Uchiha",
+   "tier": "S"
+  },
+  {
+   "id": "obito-uchiha",
+   "name": "Obito Uchiha",
+   "tier": "S"
+  },
+  {
+   "id": "minato-namikaze",
+   "name": "Minato Namikaze",
+   "tier": "S"
+  },
+  {
+   "id": "jiraiya",
+   "name": "Jiraiya",
+   "tier": "A"
+  },
+  {
+   "id": "tsunade",
+   "name": "Tsunade",
+   "tier": "A"
+  },
+  {
+   "id": "orochimaru",
+   "name": "Orochimaru",
+   "tier": "A"
+  },
+  {
+   "id": "gaara",
+   "name": "Gaara",
+   "tier": "A"
+  },
+  {
+   "id": "rock-lee",
+   "name": "Rock Lee",
+   "tier": "B"
+  },
+  {
+   "id": "might-guy",
+   "name": "Might Guy",
+   "tier": "A"
+  },
+  {
+   "id": "neji-hyuga",
+   "name": "Neji Hyuga",
+   "tier": "B"
+  },
+  {
+   "id": "hinata-hyuga",
+   "name": "Hinata Hyuga",
+   "tier": "B"
+  },
+  {
+   "id": "sakura-haruno",
+   "name": "Sakura Haruno",
+   "tier": "A"
+  },
+  {
+   "id": "shikamaru-nara",
+   "name": "Shikamaru Nara",
+   "tier": "B"
+  },
+  {
+   "id": "choji-akimichi",
+   "name": "Choji Akimichi",
+   "tier": "C"
+  },
+  {
+   "id": "kiba-inuzuka",
+   "name": "Kiba Inuzuka",
+   "tier": "C"
+  },
+  {
+   "id": "shino-aburame",
+   "name": "Shino Aburame",
+   "tier": "C"
+  },
+  {
+   "id": "tenten",
+   "name": "Tenten",
+   "tier": "C"
+  },
+  {
+   "id": "temari",
+   "name": "Temari",
+   "tier": "B"
+  },
+  {
+   "id": "kankuro",
+   "name": "Kankuro",
+   "tier": "C"
+  },
+  {
+   "id": "hashirama-senju",
+   "name": "Hashirama Senju",
+   "tier": "S"
+  },
+  {
+   "id": "tobirama-senju",
+   "name": "Tobirama Senju",
+   "tier": "S"
+  },
+  {
+   "id": "nagato",
+   "name": "Nagato",
+   "tier": "A"
+  },
+  {
+   "id": "konan",
+   "name": "Konan",
+   "tier": "B"
+  },
+  {
+   "id": "kisame-hoshigaki",
+   "name": "Kisame Hoshigaki",
+   "tier": "A"
+  },
+  {
+   "id": "deidara",
+   "name": "Deidara",
+   "tier": "A"
+  },
+  {
+   "id": "sasori",
+   "name": "Sasori",
+   "tier": "A"
+  },
+  {
+   "id": "hidan",
+   "name": "Hidan",
+   "tier": "B"
+  },
+  {
+   "id": "kakuzu",
+   "name": "Kakuzu",
+   "tier": "B"
+  },
+  {
+   "id": "killer-bee",
+   "name": "Killer Bee",
+   "tier": "A"
+  },
+  {
+   "id": "kaguya-otsutsuki",
+   "name": "Kaguya Otsutsuki",
+   "tier": "S"
+  },
+  {
+   "id": "hiruzen-sarutobi",
+   "name": "Hiruzen Sarutobi",
+   "tier": "S"
+  },
+  {
+   "id": "zabuza-momochi",
+   "name": "Zabuza Momochi",
+   "tier": "B"
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "id": "demon-slayer",
+ "name": "Demon Slayer",
+ "tagline": "KIBUTSUJI MUZAANNN!",
+ "color": "#2fb67c",
+ "characters": [
+  {
+   "id": "tanjiro-kamado",
+   "name": "Tanjiro Kamado",
+   "tier": "S"
+  },
+  {
+   "id": "nezuko-kamado",
+   "name": "Nezuko Kamado",
+   "tier": "A"
+  },
+  {
+   "id": "zenitsu-agatsuma",
+   "name": "Zenitsu Agatsuma",
+   "tier": "B"
+  },
+  {
+   "id": "inosuke-hashibira",
+   "name": "Inosuke Hashibira",
+   "tier": "B"
+  },
+  {
+   "id": "giyu-tomioka",
+   "name": "Giyu Tomioka",
+   "tier": "S"
+  },
+  {
+   "id": "shinobu-kocho",
+   "name": "Shinobu Kocho",
+   "tier": "A"
+  },
+  {
+   "id": "kyojuro-rengoku",
+   "name": "Kyojuro Rengoku",
+   "tier": "S"
+  },
+  {
+   "id": "tengen-uzui",
+   "name": "Tengen Uzui",
+   "tier": "A"
+  },
+  {
+   "id": "mitsuri-kanroji",
+   "name": "Mitsuri Kanroji",
+   "tier": "A"
+  },
+  {
+   "id": "muichiro-tokito",
+   "name": "Muichiro Tokito",
+   "tier": "S"
+  },
+  {
+   "id": "obanai-iguro",
+   "name": "Obanai Iguro",
+   "tier": "A"
+  },
+  {
+   "id": "sanemi-shinazugawa",
+   "name": "Sanemi Shinazugawa",
+   "tier": "S"
+  },
+  {
+   "id": "gyomei-himejima",
+   "name": "Gyomei Himejima",
+   "tier": "S"
+  },
+  {
+   "id": "kanao-tsuyuri",
+   "name": "Kanao Tsuyuri",
+   "tier": "B"
+  },
+  {
+   "id": "genya-shinazugawa",
+   "name": "Genya Shinazugawa",
+   "tier": "B"
+  },
+  {
+   "id": "muzan-kibutsuji",
+   "name": "Muzan Kibutsuji",
+   "tier": "S"
+  },
+  {
+   "id": "kokushibo",
+   "name": "Kokushibo",
+   "tier": "S"
+  },
+  {
+   "id": "doma",
+   "name": "Doma",
+   "tier": "S"
+  },
+  {
+   "id": "akaza",
+   "name": "Akaza",
+   "tier": "S"
+  },
+  {
+   "id": "daki",
+   "name": "Daki",
+   "tier": "B"
+  },
+  {
+   "id": "gyutaro",
+   "name": "Gyutaro",
+   "tier": "A"
+  },
+  {
+   "id": "enmu",
+   "name": "Enmu",
+   "tier": "B"
+  },
+  {
+   "id": "rui",
+   "name": "Rui",
+   "tier": "B"
+  },
+  {
+   "id": "kyogai",
+   "name": "Kyogai",
+   "tier": "C"
+  },
+  {
+   "id": "hantengu",
+   "name": "Hantengu",
+   "tier": "A"
+  },
+  {
+   "id": "gyokko",
+   "name": "Gyokko",
+   "tier": "A"
+  },
+  {
+   "id": "kaigaku",
+   "name": "Kaigaku",
+   "tier": "B"
+  },
+  {
+   "id": "tamayo",
+   "name": "Tamayo",
+   "tier": "B"
+  },
+  {
+   "id": "yushiro",
+   "name": "Yushiro",
+   "tier": "C"
+  },
+  {
+   "id": "murata",
+   "name": "Murata",
+   "tier": "C"
+  }
+ ]
+}
