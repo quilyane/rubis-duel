@@ -1,0 +1,373 @@
+{
+ "id": "hunter-x-hunter",
+ "name": "Hunter X Hunter",
+ "tagline": "Où t'es, papa où t'es ?",
+ "color": "#52FF6C",
+ "characters": [
+  {
+   "id": "gon-freecss",
+   "name": "Gon Freecss",
+   "tier": "A"
+  },
+  {
+   "id": "killua-zoldyck",
+   "name": "Killua Zoldyck",
+   "tier": "A"
+  },
+  {
+   "id": "leorio-paradinight",
+   "name": "Leorio Paradinight",
+   "tier": "B"
+  },
+  {
+   "id": "knuckle-bine",
+   "name": "Knuckle Bine",
+   "tier": "A"
+  },
+  {
+   "id": "pokke",
+   "name": "Pokke",
+   "tier": "C"
+  },
+  {
+   "id": "shoot-mcmahon",
+   "name": "Shoot McMahon",
+   "tier": "B"
+  },
+  {
+   "id": "binolt",
+   "name": "Binolt",
+   "tier": "B"
+  },
+  {
+   "id": "kurapika",
+   "name": "Kurapika",
+   "tier": "A"
+  },
+  {
+   "id": "saiyu",
+   "name": "Saiyu",
+   "tier": "A"
+  },
+  {
+   "id": "cluck",
+   "name": "Cluck",
+   "tier": "A"
+  },
+  {
+   "id": "mizaistom-nana",
+   "name": "Mizaistom Nana",
+   "tier": "A"
+  },
+  {
+   "id": "cheadle-yorkshire",
+   "name": "Cheadle Yorkshire",
+   "tier": "A"
+  },
+  {
+   "id": "menchi",
+   "name": "Menchi",
+   "tier": "B"
+  },
+  {
+   "id": "buhara",
+   "name": "Buhara",
+   "tier": "B"
+  },
+  {
+   "id": "melody",
+   "name": "Melody",
+   "tier": "B"
+  },
+  {
+   "id": "pyon",
+   "name": "Pyon",
+   "tier": "A"
+  },
+  {
+   "id": "ginta",
+   "name": "Ginta",
+   "tier": "A"
+  },
+  {
+   "id": "saccho-kobayakawa",
+   "name": "Saccho Kobayakawa",
+   "tier": "A"
+  },
+  {
+   "id": "gel",
+   "name": "Gel",
+   "tier": "A"
+  },
+  {
+   "id": "botobai-gigante",
+   "name": "Botobai Gigante",
+   "tier": "S"
+  },
+  {
+   "id": "kanzai",
+   "name": "Kanzai",
+   "tier": "A"
+  },
+  {
+   "id": "pariston-hill",
+   "name": "Pariston Hill",
+   "tier": "S"
+  },
+  {
+   "id": "gin-freecss",
+   "name": "Gin Freecss",
+   "tier": "S"
+  },
+  {
+   "id": "maha-zoldyck",
+   "name": "Maha Zoldyck",
+   "tier": "A"
+  },
+  {
+   "id": "zeno-zoldyck",
+   "name": "Zeno Zoldyck",
+   "tier": "S"
+  },
+  {
+   "id": "silva-zoldyck",
+   "name": "Silva Zoldyck",
+   "tier": "A"
+  },
+  {
+   "id": "kikyo-zoldyck",
+   "name": "Kikyo Zoldyck",
+   "tier": "B"
+  },
+  {
+   "id": "illumi-zoldyck",
+   "name": "Illumi Zoldyck",
+   "tier": "A"
+  },
+  {
+   "id": "milluki-zoldyck",
+   "name": "Milluki Zoldyck",
+   "tier": "B"
+  },
+  {
+   "id": "alluka-zoldyck",
+   "name": "Alluka Zoldyck",
+   "tier": "S"
+  },
+  {
+   "id": "kalluto-zoldyck",
+   "name": "Kalluto Zoldyck",
+   "tier": "A"
+  },
+  {
+   "id": "zigg-zoldyck",
+   "name": "Zigg Zoldyck",
+   "tier": "S"
+  },
+  {
+   "id": "canary",
+   "name": "Canary",
+   "tier": "B"
+  },
+  {
+   "id": "gotoh",
+   "name": "Gotoh",
+   "tier": "B"
+  },
+  {
+   "id": "mike",
+   "name": "Mike",
+   "tier": "B"
+  },
+  {
+   "id": "uvogin",
+   "name": "Uvogin",
+   "tier": "A"
+  },
+  {
+   "id": "phinks-magcub",
+   "name": "Phinks Magcub",
+   "tier": "A"
+  },
+  {
+   "id": "hisoka-morow",
+   "name": "Hisoka Morow",
+   "tier": "A"
+  },
+  {
+   "id": "franklin-bordeau",
+   "name": "Franklin Bordeau",
+   "tier": "A"
+  },
+  {
+   "id": "feitan-portor",
+   "name": "Feitan Portor",
+   "tier": "A"
+  },
+  {
+   "id": "machi-komacine",
+   "name": "Maki Komacine",
+   "tier": "A"
+  },
+  {
+   "id": "chrollo-lucilfer",
+   "name": "Chrollo Lucilfer",
+   "tier": "S"
+  },
+  {
+   "id": "bonolenov-ndongo",
+   "name": "Bonolenov Ndongo",
+   "tier": "A"
+  },
+  {
+   "id": "nobunaga-hazama",
+   "name": "Nobunaga Hazama",
+   "tier": "A"
+  },
+  {
+   "id": "sharnalk",
+   "name": "Sharnalk",
+   "tier": "A"
+  },
+  {
+   "id": "pakunoda",
+   "name": "Pakunoda",
+   "tier": "A"
+  },
+  {
+   "id": "shizuku-murasaki",
+   "name": "Shizuku Murasaki",
+   "tier": "A"
+  },
+  {
+   "id": "kortopi",
+   "name": "Kortopi",
+   "tier": "A"
+  },
+  {
+   "id": "meruem",
+   "name": "Meruem",
+   "tier": "S"
+  },
+  {
+   "id": "neferpitou",
+   "name": "Neferpitou",
+   "tier": "S"
+  },
+  {
+   "id": "shaiapouf",
+   "name": "Shaiapouf",
+   "tier": "S"
+  },
+  {
+   "id": "menthuthuyoupi",
+   "name": "Menthuthuyoupi",
+   "tier": "S"
+  },
+  {
+   "id": "palm-siberia",
+   "name": "Palm Siberia",
+   "tier": "A"
+  },
+  {
+   "id": "meleoron",
+   "name": "Meleoron",
+   "tier": "B"
+  },
+  {
+   "id": "leol",
+   "name": "Leol",
+   "tier": "B"
+  },
+  {
+   "id": "cheetu",
+   "name": "Cheetu",
+   "tier": "A"
+  },
+  {
+   "id": "yunju",
+   "name": "Yunju",
+   "tier": "B"
+  },
+  {
+   "id": "ikalgo",
+   "name": "Ikalgo",
+   "tier": "B"
+  },
+  {
+   "id": "koala",
+   "name": "Koala",
+   "tier": "B"
+  },
+  {
+   "id": "kaito",
+   "name": "Kaito",
+   "tier": "A"
+  },
+  {
+   "id": "jairo",
+   "name": "Jairo",
+   "tier": "S"
+  },
+  {
+   "id": "razor",
+   "name": "Razor",
+   "tier": "A"
+  },
+  {
+   "id": "genthru",
+   "name": "Genthru",
+   "tier": "A"
+  },
+  {
+   "id": "komugi",
+   "name": "Komugi",
+   "tier": "C"
+  },
+  {
+   "id": "isaac-netero",
+   "name": "Isaac Netero",
+   "tier": "S"
+  },
+  {
+   "id": "beyond-netero",
+   "name": "Beyond Netero",
+   "tier": "S"
+  },
+  {
+   "id": "tserriednich-hui-guo-rou",
+   "name": "Tserriednich Hui Guo Rou",
+   "tier": "S"
+  },
+  {
+   "id": "benjamin-hui-guo-rou",
+   "name": "Benjamin Hui Guo Rou",
+   "tier": "S"
+  },
+  {
+   "id": "biscuit-krueger",
+   "name": "Biscuit Krueger",
+   "tier": "A"
+  },
+  {
+   "id": "don-freecss",
+   "name": "Don Freecss",
+   "tier": "S"
+  },
+  {
+   "id": "hanzo",
+   "name": "Hanzo",
+   "tier": "B"
+  },
+  {
+   "id": "ponzu",
+   "name": "Ponzu",
+   "tier": "C"
+  },
+  {
+   "id": "tompa",
+   "name": "Tompa",
+   "tier": "C"
+  }
+ ]
+}
