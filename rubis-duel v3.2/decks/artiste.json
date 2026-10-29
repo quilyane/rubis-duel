@@ -1,0 +1,258 @@
+{
+ "id": "artiste",
+ "name": "Artiste",
+ "tagline": "EN PISTE MAESTRO",
+ "color": "#FF0055",
+ "characters": [
+  {
+   "id": "linkin-park",
+   "name": "Linkin Park",
+   "tier": "S"
+  },
+  {
+   "id": "the-weeknd",
+   "name": "The Weeknd",
+   "tier": "S"
+  },
+  {
+   "id": "pnl",
+   "name": "PNL",
+   "tier": "S"
+  },
+  {
+   "id": "green-day",
+   "name": "Green Day",
+   "tier": "A"
+  },
+  {
+   "id": "jay-z",
+   "name": "Jay-Z",
+   "tier": "S"
+  },
+  {
+   "id": "michael-jackson",
+   "name": "Michael Jackson",
+   "tier": "S"
+  },
+  {
+   "id": "xxxtentacion",
+   "name": "XXXTentacion",
+   "tier": "A"
+  },
+  {
+   "id": "mac-miller",
+   "name": "Mac Miller",
+   "tier": "B"
+  },
+  {
+   "id": "radiohead",
+   "name": "Radiohead",
+   "tier": "S"
+  },
+  {
+   "id": "future",
+   "name": "Future",
+   "tier": "S"
+  },
+  {
+   "id": "ye",
+   "name": "Ye",
+   "tier": "A"
+  },
+  {
+   "id": "daft-punk",
+   "name": "Daft Punk",
+   "tier": "S"
+  },
+  {
+   "id": "eminem",
+   "name": "Eminem",
+   "tier": "S"
+  },
+  {
+   "id": "50-cent",
+   "name": "50 Cent",
+   "tier": "A"
+  },
+  {
+   "id": "pharell-williams",
+   "name": "Pharell Williams",
+   "tier": "S"
+  },
+  {
+   "id": "the-rolling-stones",
+   "name": "The Rolling Stones",
+   "tier": "S"
+  },
+  {
+   "id": "black-eyed-peas",
+   "name": "Black Eyed Peas",
+   "tier": "S"
+  },
+  {
+   "id": "stromae",
+   "name": "Stromae",
+   "tier": "S"
+  },
+  {
+   "id": "kaaris",
+   "name": "Kaaris",
+   "tier": "A"
+  },
+  {
+   "id": "queen",
+   "name": "Queen",
+   "tier": "S"
+  },
+  {
+   "id": "angele",
+   "name": "Angele",
+   "tier": "B"
+  },
+  {
+   "id": "britney-spears",
+   "name": "Britney Spears",
+   "tier": "A"
+  },
+  {
+   "id": "dua-lipa",
+   "name": "Dua Lipa",
+   "tier": "A"
+  },
+  {
+   "id": "drake",
+   "name": "Drake",
+   "tier": "A"
+  },
+  {
+   "id": "kendrick-lamar",
+   "name": "Kendrick Lamar",
+   "tier": "S"
+  },
+  {
+   "id": "billie-eilish",
+   "name": "Billie Eilish",
+   "tier": "A"
+  },
+  {
+   "id": "muse",
+   "name": "Muse",
+   "tier": "A"
+  },
+  {
+   "id": "adele-castillon",
+   "name": "Adèle Castillon",
+   "tier": "C"
+  },
+  {
+   "id": "blueface",
+   "name": "Blueface",
+   "tier": "C"
+  },
+  {
+   "id": "booba",
+   "name": "Booba",
+   "tier": "S"
+  },
+  {
+   "id": "michel-sardou",
+   "name": "Michel Sardou",
+   "tier": "C"
+  },
+  {
+   "id": "milli-vanilli",
+   "name": "Milli Vanilli",
+   "tier": "C"
+  },
+  {
+   "id": "inoxtag",
+   "name": "Inoxtag",
+   "tier": "C"
+  },
+  {
+   "id": "taylor-swift",
+   "name": "Taylor Swift",
+   "tier": "S"
+  },
+  {
+   "id": "sia",
+   "name": "Sia",
+   "tier": "S"
+  },
+  {
+   "id": "juice-wrld",
+   "name": "Juice WRLD",
+   "tier": "A"
+  },
+  {
+   "id": "machine-gun-kelly",
+   "name": "Machine Gun Kelly",
+   "tier": "B"
+  },
+  {
+   "id": "kid-cudi",
+   "name": "Kid Cudi",
+   "tier": "A"
+  },
+  {
+   "id": "justin-bieber",
+   "name": "Justin Bieber",
+   "tier": "S"
+  },
+  {
+   "id": "p-diddy",
+   "name": "P Diddy",
+   "tier": "C"
+  },
+  {
+   "id": "r-kelly",
+   "name": "R Kelly",
+   "tier": "C"
+  },
+  {
+   "id": "patrick-bruel",
+   "name": "Patrick Bruel",
+   "tier": "C"
+  },
+  {
+   "id": "jean-luc-lahaye",
+   "name": "Jean-Luc Lahaye",
+   "tier": "C"
+  },
+  {
+   "id": "moha-la-squale",
+   "name": "Moha La Squale",
+   "tier": "C"
+  },
+  {
+   "id": "doums",
+   "name": "Doums",
+   "tier": "C"
+  },
+  {
+   "id": "romeo-elvis",
+   "name": "Roméo Elvis",
+   "tier": "C"
+  },
+  {
+   "id": "squeezie",
+   "name": "Squeezie",
+   "tier": "C"
+  },
+  {
+   "id": "anyme",
+   "name": "Anyme",
+   "tier": "C"
+  },
+  {
+   "id": "pink-floyd",
+   "name": "Pink Floyd",
+   "tier": "S"
+  },
+  {
+   "id": "claude-françois",
+   "name": "Claude François",
+   "tier": "C"
+  }
+ ]
+}
