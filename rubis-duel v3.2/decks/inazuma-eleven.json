@@ -1,0 +1,353 @@
+{
+ "id": "inazuma-eleven",
+ "name": "Inazuma Eleven",
+ "tagline": "As-tu entendu les anges battre des ailes ? ",
+ "color": "#FFBB00",
+ "characters": [
+  {
+   "id": "mark-evans",
+   "name": "Mark Evans",
+   "tier": "S"
+  },
+  {
+   "id": "axel-blaze",
+   "name": "Axel Blaze",
+   "tier": "S"
+  },
+  {
+   "id": "jude-sharp",
+   "name": "Jude Sharp",
+   "tier": "S"
+  },
+  {
+   "id": "kevin-dragonfly",
+   "name": "Kevin Dragonfly",
+   "tier": "B"
+  },
+  {
+   "id": "nathan-swift",
+   "name": "Nathan Swift",
+   "tier": "A"
+  },
+  {
+   "id": "shawn-frost",
+   "name": "Shawn Frost",
+   "tier": "S"
+  },
+  {
+   "id": "darren-lachance",
+   "name": "Darren LaChance",
+   "tier": "B"
+  },
+  {
+   "id": "xavier-foster",
+   "name": "Xavier Foster",
+   "tier": "S"
+  },
+  {
+   "id": "austin-hobbes",
+   "name": "Austin Hobbes",
+   "tier": "A"
+  },
+  {
+   "id": "archer-hawkins",
+   "name": "Archer Hawkins",
+   "tier": "A"
+  },
+  {
+   "id": "byron-love",
+   "name": "Byron Love",
+   "tier": "S"
+  },
+  {
+   "id": "silvia-woods",
+   "name": "Silvia Woods",
+   "tier": "B"
+  },
+  {
+   "id": "nelly-raimon",
+   "name": "Nelly Raimon",
+   "tier": "B"
+  },
+  {
+   "id": "celia-hills",
+   "name": "Celia Hills",
+   "tier": "B"
+  },
+  {
+   "id": "william-glass",
+   "name": "William Glass",
+   "tier": "C"
+  },
+  {
+   "id": "camelia-travis",
+   "name": "Camelia Travis",
+   "tier": "C"
+  },
+  {
+   "id": "hector-hélio",
+   "name": "Hector Hélio",
+   "tier": "S"
+  },
+  {
+   "id": "joseph-king",
+   "name": "Joseph King",
+   "tier": "A"
+  },
+  {
+   "id": "daniel-hatch",
+   "name": "Daniel Hatch",
+   "tier": "B"
+  },
+  {
+   "id": "neil-turner",
+   "name": "Neil Turner",
+   "tier": "B"
+  },
+  {
+   "id": "dave-quagmire",
+   "name": "Dave Quagmire",
+   "tier": "S"
+  },
+  {
+   "id": "jack-wallside",
+   "name": "Jack Wallside",
+   "tier": "A"
+  },
+  {
+   "id": "tod-ironside",
+   "name": "Tod Ironside",
+   "tier": "B"
+  },
+  {
+   "id": "bobby-shearer",
+   "name": "Bobby Shearer",
+   "tier": "A"
+  },
+  {
+   "id": "erik-eagle",
+   "name": "Erik Eagle",
+   "tier": "S"
+  },
+  {
+   "id": "victoria-vanguard",
+   "name": "Victoria Vanguard",
+   "tier": "B"
+  },
+  {
+   "id": "scott-banyan",
+   "name": "Scott Banyan",
+   "tier": "B"
+  },
+  {
+   "id": "sue-hartland",
+   "name": "Sue Hartland",
+   "tier": "C"
+  },
+  {
+   "id": "hurley-kane",
+   "name": "Hurley Kane",
+   "tier": "A"
+  },
+  {
+   "id": "jim-wraith",
+   "name": "Jim Wraith",
+   "tier": "C"
+  },
+  {
+   "id": "sam-kincaid",
+   "name": "Sam Kincaid",
+   "tier": "C"
+  },
+  {
+   "id": "max-carson",
+   "name": "Max Carson",
+   "tier": "C"
+  },
+  {
+   "id": "timmy-saunders",
+   "name": "Timmy Saunders",
+   "tier": "C"
+  },
+  {
+   "id": "steve-grim",
+   "name": "Steve Grim",
+   "tier": "C"
+  },
+  {
+   "id": "johan-tassman",
+   "name": "Johan Tassman",
+   "tier": "B"
+  },
+  {
+   "id": "thomas-feldt",
+   "name": "Thomas Feldt",
+   "tier": "A"
+  },
+  {
+   "id": "caleb-stonewall",
+   "name": "Caleb Stonewall",
+   "tier": "A"
+  },
+  {
+   "id": "david-samford",
+   "name": "David Samford",
+   "tier": "A"
+  },
+  {
+   "id": "sail-bluesea",
+   "name": "Sail Bluesea",
+   "tier": "B"
+  },
+  {
+   "id": "albert-green",
+   "name": "Albert Green",
+   "tier": "B"
+  },
+  {
+   "id": "malcolm-night",
+   "name": "Malcolm Night",
+   "tier": "A"
+  },
+  {
+   "id": "marvin-murdock",
+   "name": "Marvin Murdock",
+   "tier": "B"
+  },
+  {
+   "id": "tyler-murdock",
+   "name": "Tyler Murdock",
+   "tier": "B"
+  },
+  {
+   "id": "thomas-murdock",
+   "name": "Thomas Murdock",
+   "tier": "B"
+  },
+  {
+   "id": "thor-stoutberg",
+   "name": "Thor Stoutberg",
+   "tier": "B"
+  },
+  {
+   "id": "jordan-greenway",
+   "name": "Jordan Greenway",
+   "tier": "A"
+  },
+  {
+   "id": "dolph-hensen",
+   "name": "Dolph Hensen",
+   "tier": "A"
+  },
+  {
+   "id": "bilal-kalil",
+   "name": "Bilal Kalil",
+   "tier": "S"
+  },
+  {
+   "id": " changsu-choi",
+   "name": " Changsu Choi",
+   "tier": "S"
+  },
+  {
+   "id": "torch",
+   "name": "Torch",
+   "tier": "S"
+  },
+  {
+   "id": "gazelle",
+   "name": "Gazelle",
+   "tier": "S"
+  },
+  {
+   "id": "edgar-partinus",
+   "name": "Edgar Partinus",
+   "tier": "S"
+  },
+  {
+   "id": "thiago-torres",
+   "name": "Thiago Torres",
+   "tier": "S"
+  },
+  {
+   "id": "dylan-keats",
+   "name": "Dylan Keats",
+   "tier": "A"
+  },
+  {
+   "id": "mark-krueger",
+   "name": "Mark Krueger",
+   "tier": "A"
+  },
+  {
+   "id": "shadow-cimmerian",
+   "name": "Shadow Cimmerian",
+   "tier": "A"
+  },
+  {
+   "id": "paolo-bianchi",
+   "name": "Paolo Bianchi",
+   "tier": "S"
+  },
+  {
+   "id": "hidetoshi-nakata",
+   "name": "Hidetoshi Nakata",
+   "tier": "S"
+  },
+  {
+   "id": "mac-robingo",
+   "name": "Mac Robingo",
+   "tier": "S"
+  },
+  {
+   "id": "rhona-countdown",
+   "name": "Rihm",
+   "tier": "B"
+  },
+  {
+   "id": "ronny-metcalf",
+   "name": "Metron",
+   "tier": "B"
+  },
+  {
+   "id": "zeke-valanche",
+   "name": "Zell",
+   "tier": "B"
+  },
+  {
+   "id": "nero",
+   "name": "Nero",
+   "tier": "A"
+  },
+  {
+   "id": "wittz",
+   "name": "Wittz",
+   "tier": "B"
+  },
+  {
+   "id": "bellatrix",
+   "name": "Bellatrix",
+   "tier": "A"
+  },
+  {
+   "id": "neppten",
+   "name": "Neppten",
+   "tier": "B"
+  },
+  {
+   "id": "grent",
+   "name": "Grent",
+   "tier": "B"
+  },
+  {
+   "id": "bomber",
+   "name": "Bomber",
+   "tier": "B"
+  },
+  {
+   "id": "heat",
+   "name": "Heat",
+   "tier": "B"
+  }
+ ]
+}

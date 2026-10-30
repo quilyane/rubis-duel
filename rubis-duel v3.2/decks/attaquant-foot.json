@@ -1,0 +1,258 @@
+{
+ "id": "attaquant-foot",
+ "name": "Attaquant Foot",
+ "tagline": "Ramenez la coupe à la maison !",
+ "color": "#004170",
+ "characters": [
+  {
+   "id": "kylian-mbappe",
+   "name": "Kylian Mbappé",
+   "tier": "S"
+  },
+  {
+   "id": "lamine-yamal",
+   "name": "Lamine Yamal",
+   "tier": "S"
+  },
+  {
+   "id": "ousmane-dembele",
+   "name": "Ousmane Dembélé",
+   "tier": "S"
+  },
+  {
+   "id": "harry-kane",
+   "name": "Harry Kane",
+   "tier": "S"
+  },
+  {
+   "id": "michael-olise",
+   "name": "Michael Olise",
+   "tier": "S"
+  },
+  {
+   "id": "bukayo-saka",
+   "name": "Bukayo Saka",
+   "tier": "A"
+  },
+  {
+   "id": "desire-doue",
+   "name": "Désiré Doué",
+   "tier": "A"
+  },
+  {
+   "id": "khvicha-kvaratskhelia",
+   "name": "Khvicha Kvaratskhelia",
+   "tier": "S"
+  },
+  {
+   "id": "raphinha",
+   "name": "Raphinha",
+   "tier": "A"
+  },
+  {
+   "id": "esteban-lepaul",
+   "name": "Esteban Lepaul",
+   "tier": "B"
+  },
+  {
+   "id": "florian-wirtz",
+   "name": "Florian Wirtz",
+   "tier": "B"
+  },
+  {
+   "id": "rayan-cherki",
+   "name": "Rayan Cherki",
+   "tier": "A"
+  },
+  {
+   "id": "erling-haaland",
+   "name": "Erling Haaland",
+   "tier": "S"
+  },
+  {
+   "id": "jude-bellingham",
+   "name": "Jude Bellingham",
+   "tier": "A"
+  },
+  {
+   "id": "vinicius-jr",
+   "name": "Vinicius Jr",
+   "tier": "B"
+  },
+  {
+   "id": "lionel-messi",
+   "name": "Lionel Messi",
+   "tier": "S"
+  },
+  {
+   "id": "cristiano-ronaldo",
+   "name": "Cristiano Ronaldo",
+   "tier": "S"
+  },
+  {
+   "id": "hugo-ekitike",
+   "name": "Hugo Ekitiké",
+   "tier": "B"
+  },
+  {
+   "id": "bradley-barcola",
+   "name": "Bradley Barcola",
+   "tier": "B"
+  },
+  {
+   "id": "lautaro-martinez",
+   "name": "Lautaro Martinez",
+   "tier": "A"
+  },
+  {
+   "id": "marcus-thuram",
+   "name": "Marcus Thuram",
+   "tier": "C"
+  },
+  {
+   "id": "eli-junior-kroupi",
+   "name": "Éli Junior Kroupi",
+   "tier": "C"
+  },
+  {
+   "id": "yan-diomande",
+   "name": "Yan Diomandé",
+   "tier": "B"
+  },
+  {
+   "id": "semenyo",
+   "name": "Semenyo",
+   "tier": "B"
+  },
+  {
+   "id": "cole-palmer",
+   "name": "Cole Palmer",
+   "tier": "B"
+  },
+  {
+   "id": "nico-paz",
+   "name": "Nico Paz",
+   "tier": "B"
+  },
+  {
+   "id": "viktor-gyokeres",
+   "name": "Viktor Gyökeres",
+   "tier": "C"
+  },
+  {
+   "id": "bruno-fernandes",
+   "name": "Bruno Fernandes",
+   "tier": "A"
+  },
+  {
+   "id": "morgan-rogers",
+   "name": "Morgan Rogers",
+   "tier": "B"
+  },
+  {
+   "id": "fermin-lopez",
+   "name": "Fermín López",
+   "tier": "A"
+  },
+  {
+   "id": "julian-alvarez",
+   "name": "Julián Alvarez",
+   "tier": "A"
+  },
+  {
+   "id": "arda-guler",
+   "name": "Arda Güler",
+   "tier": "B"
+  },
+  {
+   "id": "joao-pedro",
+   "name": "João Pedro",
+   "tier": "B"
+  },
+  {
+   "id": "dominik-szoboszlai",
+   "name": "Dominik Szoboszlai",
+   "tier": "A"
+  },
+  {
+   "id": "alexander-isak",
+   "name": "Alexander Isak",
+   "tier": "B"
+  },
+  {
+   "id": "estevao",
+   "name": "Estêvão",
+   "tier": "C"
+  },
+  {
+   "id": "jamal-musiala",
+   "name": "Jamal Musiala",
+   "tier": "A"
+  },
+  {
+   "id": "anthony-gordon",
+   "name": "Anthony Gordon",
+   "tier": "A"
+  },
+  {
+   "id": "martin-odegaard",
+   "name": "Martin Ødegaard",
+   "tier": "B"
+  },
+  {
+   "id": "benjamin-sesko",
+   "name": "Benjamin Šeško",
+   "tier": "B"
+  },
+  {
+   "id": "jeremy-doku",
+   "name": "Jeremy Doku",
+   "tier": "B"
+  },
+  {
+   "id": "bryan-mbeumo",
+   "name": "Bryan Mbeumo",
+   "tier": "B"
+  },
+  {
+   "id": "matheus-cunha",
+   "name": "Matheus Cunha",
+   "tier": "B"
+  },
+  {
+   "id": "luis-diaz",
+   "name": "Luis Díaz",
+   "tier": "S"
+  },
+  {
+   "id": "johan-manzambi",
+   "name": "Johan Manzambi",
+   "tier": "B"
+  },
+  {
+   "id": "igor-thiago",
+   "name": "Igor Thiago",
+   "tier": "A"
+  },
+  {
+   "id": "phil-foden",
+   "name": "Phil Foden",
+   "tier": "C"
+  },
+  {
+   "id": "victor-osimhen",
+   "name": "Victor Osimhen",
+   "tier": "B"
+  },
+  {
+   "id": "rayan",
+   "name": "Rayan",
+   "tier": "C"
+  },
+  {
+   "id": "rasmus-hojlund",
+   "name": "Rasmus Højlund",
+   "tier": "C"
+  }
+ ]
+}
