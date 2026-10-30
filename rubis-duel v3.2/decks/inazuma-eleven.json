@@ -348,6 +348,11 @@
    "id": "heat",
    "name": "Heat",
    "tier": "B"
+  },
+  {
+   "id": "elliot-ember",
+   "name": "Elliot Ember",
+   "tier": "S"
   }
  ]
 }
